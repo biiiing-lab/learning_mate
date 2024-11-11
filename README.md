@@ -31,10 +31,14 @@
 > MVC Pattern로 진행하였습니다.
 
 ### 메인 화면
-- 등록된 게시글을 모두 보여줍니다.
+- 등록된 게시글을 모두 보여줍니다
+
+![image67-_online-video-cutter com_](https://github.com/user-attachments/assets/c213f29c-a5b2-44df-9d10-e0123c889af2)
+
 
 - 다크모드를 지원합니다.
 
+![image67-_online-video-cutter com_-_2_](https://github.com/user-attachments/assets/a4d94fa0-b9cd-455c-aeed-65f65e71eab2)
 
 
 ### 회원
